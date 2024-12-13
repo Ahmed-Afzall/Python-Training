@@ -8,3 +8,9 @@ np.arange(): Create an array with evenly spaced values within a range.
 np.linspace(): Create an array with evenly spaced values over a specified interval.
 np.eye(): Create an identity matrix.
 np.random.rand(), np.random.randn(): Create arrays with random values from uniform or normal distributions.
+
+
+Array Operations
+np.shape(): Get the shape of an array.
+np.size(): Get the total number of elements.
+np.ndim(): Get the number of dimensions.
