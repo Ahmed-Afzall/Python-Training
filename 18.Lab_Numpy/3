@@ -17,3 +17,5 @@ np.ndim(): Get the number of dimensions.
 np.reshape(): Reshape an array.
 np.flatten(): Flatten a multi-dimensional array
 np.transpose(): Transpose an array.
+np.concatenate(): Concatenate arrays along a specified axis.
+np.split(): Split an array into sub-arrays.
