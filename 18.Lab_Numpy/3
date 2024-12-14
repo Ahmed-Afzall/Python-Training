@@ -14,3 +14,5 @@ Array Operations
 np.shape(): Get the shape of an array.
 np.size(): Get the total number of elements.
 np.ndim(): Get the number of dimensions.
+np.reshape(): Reshape an array.
+np.flatten(): Flatten a multi-dimensional array
