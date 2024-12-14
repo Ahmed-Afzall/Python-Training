@@ -16,3 +16,4 @@ np.size(): Get the total number of elements.
 np.ndim(): Get the number of dimensions.
 np.reshape(): Reshape an array.
 np.flatten(): Flatten a multi-dimensional array
+np.transpose(): Transpose an array.
