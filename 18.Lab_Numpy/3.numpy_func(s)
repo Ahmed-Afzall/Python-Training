@@ -19,3 +19,8 @@ np.flatten(): Flatten a multi-dimensional array
 np.transpose(): Transpose an array.
 np.concatenate(): Concatenate arrays along a specified axis.
 np.split(): Split an array into sub-arrays.
+
+Mathematical Functions
+np.add(), np.subtract(), np.multiply(), np.divide(): Element-wise addition, subtraction, multiplication, and division.
+np.dot(), np.matmul(): Matrix multiplication.
+np.power(), np.sqrt(): Power and square root.
