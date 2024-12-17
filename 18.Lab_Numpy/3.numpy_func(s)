@@ -24,3 +24,5 @@ Mathematical Functions
 np.add(), np.subtract(), np.multiply(), np.divide(): Element-wise addition, subtraction, multiplication, and division.
 np.dot(), np.matmul(): Matrix multiplication.
 np.power(), np.sqrt(): Power and square root.
+np.exp(), np.log(), np.log10(): Exponential and logarithms.
+np.sin(), np.cos(), np.tan(): Trigonometric functions.
