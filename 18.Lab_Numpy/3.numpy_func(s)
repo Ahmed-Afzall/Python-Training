@@ -29,4 +29,8 @@ np.sin(), np.cos(), np.tan(): Trigonometric functions.
 np.sum(), np.mean(), np.median(), np.std(), np.var(): Aggregate functions.
 np.cumsum(), np.cumprod(): Cumulative sum and product.
 
+Indexing and Slicing
+np.where(): Return indices of elements that satisfy a condition.
+np.take(): Take elements from an array along an axis.
+np.put(): Replace specified elements of an array.
 
