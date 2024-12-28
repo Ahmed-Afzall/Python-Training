@@ -25,4 +25,7 @@ np.add(), np.subtract(), np.multiply(), np.divide(): Element-wise addition, subt
 np.dot(), np.matmul(): Matrix multiplication.
 np.power(), np.sqrt(): Power and square root.
 np.exp(), np.log(), np.log10(): Exponential and logarithms.
+np.sin(), np.cos(), np.tan(): Trigonometric functions.
+np.sum(), np.mean(), np.median(), np.std(), np.var(): Aggregate functions.
+np.cumsum(), np.cumprod(): Cumulative sum and product.
 
