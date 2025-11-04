@@ -47,3 +47,4 @@ print(result2)
 By writing more general-purpose functions and eliminating repetition, you can increase the maintainability and 
 scalability of your code by utilizing parameters.
 '''
+
