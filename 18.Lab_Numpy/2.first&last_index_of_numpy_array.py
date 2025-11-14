@@ -24,4 +24,5 @@ last_index_value = np_array[-1]
 # Multiplying each element by 2
 multiplied_array = np_array * 2
 
+
 np_array, first_index_value, last_index_value, multiplied_array
