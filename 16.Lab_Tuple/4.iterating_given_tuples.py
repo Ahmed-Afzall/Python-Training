@@ -15,3 +15,4 @@ employees = [employee1, employee2, employee3]
 # Looping through each employee tuple and print the details
 for employee in employees:
     print(f"Name: {employee[0]}, ID: {employee[1]}, Department: {employee[2]}, Salary: {employee[3]}")
+
