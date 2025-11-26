@@ -6,3 +6,4 @@ expenses = np.array([4000, 5000, 4500, 4800])
 profit = revenue - expenses
 
 print("Profit:", profit)
+
