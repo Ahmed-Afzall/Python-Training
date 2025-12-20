@@ -6,4 +6,4 @@ category2_revenue = np.array([450, 700, 800, 600])
 total_revenue = category1_revenue + category2_revenue
 
 print("Total Revenue:", total_revenue)
-
+
