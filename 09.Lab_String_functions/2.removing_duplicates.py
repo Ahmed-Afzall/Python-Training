@@ -27,4 +27,3 @@ output_string = remove_duplicate_words(input_string)
 
 # Output of the result
 print("String after removing duplicate words:", output_string)
-
