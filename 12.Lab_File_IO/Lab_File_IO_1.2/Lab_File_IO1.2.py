@@ -53,6 +53,7 @@ file.close()
 # 10. flush()
 file = open("example.txt","w")
 file.write("This line will be written immediately.")
+
 file.flush() # forces the write to happen immediately
 file.close()
 
