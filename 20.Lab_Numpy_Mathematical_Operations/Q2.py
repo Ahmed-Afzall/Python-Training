@@ -7,3 +7,4 @@ profit = revenue - expenses
 
 print("Profit:", profit)
 
+
