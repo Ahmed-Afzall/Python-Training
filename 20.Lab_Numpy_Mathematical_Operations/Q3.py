@@ -7,3 +7,4 @@ out_of_stock_products = inventory[out_of_stock_indices]
 
 print("Out of Stock Products:", out_of_stock_products)
 
+
