@@ -28,4 +28,3 @@ print("Array from tuple:", array_from_tuple)
 
 
 
-
