@@ -12,4 +12,3 @@ for item in list:
 
 # Printing the duplicates
 print("Duplicate values:", duplicates)
-
