@@ -75,4 +75,3 @@ with open("example.txt", "r") as file:
     print("Content read using with open():")
     print(content)
 # File is automatically closed after the block
-
