@@ -13,3 +13,4 @@ while True:
     total_sum += number
 
 print("Sum of all numbers:", total_sum)
+
