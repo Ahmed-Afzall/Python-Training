@@ -21,3 +21,4 @@ def password_validation(password):
 
 password = input("Enter a password: ")   #taking password from the user
 print(password_validation(password))     # Checking and printing the result
+
