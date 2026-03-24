@@ -7,3 +7,4 @@ for i in range(1, 11): #start from 1 and stop at 10
 print("Sum of numbers from 1 to 10 is:", sum_total)
 
 #output = 55
+
