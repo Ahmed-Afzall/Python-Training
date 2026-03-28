@@ -21,6 +21,7 @@ def count_vowels_consonants(input_string):
             else:
                 consonant_count += 1
     
+
     return vowel_count, consonant_count
 
 #taking input from the user
