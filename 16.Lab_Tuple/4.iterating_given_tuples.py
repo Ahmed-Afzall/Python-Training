@@ -16,3 +16,4 @@ employees = [employee1, employee2, employee3]
 for employee in employees:
     print(f"Name: {employee[0]}, ID: {employee[1]}, Department: {employee[2]}, Salary: {employee[3]}")
 
+
