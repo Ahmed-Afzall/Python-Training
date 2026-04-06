@@ -26,4 +26,3 @@ array_from_tuple = np.array(my_tuple)
 print("Array from list:", array_from_list)
 print("Array from tuple:", array_from_tuple)
 
-
