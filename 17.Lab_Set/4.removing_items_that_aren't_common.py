@@ -12,4 +12,3 @@ set1.intersection_update(set2)
 
 # Printing the modified set1
 print("Items common to both sets:", set1)
-
