@@ -5,4 +5,3 @@ dict_num = {"A": 10, "B": 20, "C": 30, "D": 40, "E": 50, "F": 60}
 for key, value in dict_num.items():
     print(f"Key: {key}, Value: {value}, Item: ({key}, {value})")
 
-
