@@ -12,3 +12,4 @@ if palindrome(string):
     print("The string is a palindrome.") # if input given is palindrome, for ex, mom, dad, wow, it will print this
 else:
     print("The string is not a palindrome.") # if input given is not palindrome, for ex, mother, father, it will print this
+
