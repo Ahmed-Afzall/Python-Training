@@ -28,3 +28,4 @@ def count_vowels_consonants(input_string):
 user_input = input("Enter a string: ")
 vowels, consonants = count_vowels_consonants(user_input)
 print(f"Vowels: {vowels}, Consonants: {consonants}")
+
