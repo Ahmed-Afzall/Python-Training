@@ -20,3 +20,4 @@ for word in words:
 
 # Displaying the result
 print("Word counts:", word_count)
+
