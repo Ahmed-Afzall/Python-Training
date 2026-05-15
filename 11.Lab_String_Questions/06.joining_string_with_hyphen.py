@@ -16,3 +16,4 @@ user_input = input("Enter a string: ")
 output = split_and_replace(user_input)
 print("New string:", output)
 
+
