@@ -43,3 +43,4 @@ float_input = float(input("Enter a float: "))
 print("String input:", string_input)
 print("Integer input:", int_input)
 print("Float input:", float_input)
+
