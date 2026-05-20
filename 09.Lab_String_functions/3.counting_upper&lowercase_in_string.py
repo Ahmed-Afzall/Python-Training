@@ -37,4 +37,3 @@ print(f"Lowercase letters: {lowercase_count}")
 print(f"Digits: {digit_count}")
 print(f"Special characters: {special_count}")
 
-
