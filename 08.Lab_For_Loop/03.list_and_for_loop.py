@@ -6,3 +6,4 @@ fruits = ["apple", "banana", "mango", "blueberry"]
 # Iterating through the items of the list
 for item in fruits:
     print(item)
+
