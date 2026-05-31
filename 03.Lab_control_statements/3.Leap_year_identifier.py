@@ -15,3 +15,4 @@ elif year % 4 == 0:    #This statement checks if the year is divisible by 4. If 
 
 else:                  #In this statement if none of the above conditions are met, it's not a leap year.
     print(f"{year} is not a leap year.")  #The f in print(f"{year} is/not a leap year.") is part of an f-string, which stands for "formatted string literal."
+
