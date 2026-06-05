@@ -66,6 +66,7 @@ file.close()
 
 
 
+
 # 13. truncate()
 file = open("example.txt", "r+")
 file.truncate(20)  # Truncate the file to 20 bytes
