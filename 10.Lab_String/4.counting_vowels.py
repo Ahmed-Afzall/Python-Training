@@ -19,3 +19,4 @@ def count_vowels(s):
 
 string = "Welcome to python Training"
 print(count_vowels(string))
+
