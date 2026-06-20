@@ -14,4 +14,4 @@ else:
     greatest = num3
 
 # Printing the greatest number
-print("The greatest number is:", greatest)
+print("The greatest number is:", greatest)
