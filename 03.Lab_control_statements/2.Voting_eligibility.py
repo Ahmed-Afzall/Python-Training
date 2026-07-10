@@ -10,4 +10,3 @@ if age >= 18:  #if the user's age is greater or equal than 18, it will print "Yo
     
 else:          #in else if the users age is less then 18, then it will print "You are not eligible to vote"
     print("You are not eligible to vote.")
-
