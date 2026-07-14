@@ -11,3 +11,4 @@ def substring_occurrences(main_string, substring):
 main_string = input("Enter the main string: ")
 substring = input("Enter the substring to find: ")
 substring_occurrences(main_string, substring)
+
