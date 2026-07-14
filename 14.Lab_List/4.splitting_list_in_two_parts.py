@@ -9,4 +9,3 @@ second_part = list[length_of_first_part:]  # Second part
 # Printing the results
 print("First part:", first_part)
 print("Second part:", second_part)
-
