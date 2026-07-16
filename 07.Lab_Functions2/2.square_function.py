@@ -8,4 +8,4 @@ def square(x):
 result = square(5)
 
 #printing the result
-print("Square Result:", result)
+print("Square Result:", result)
