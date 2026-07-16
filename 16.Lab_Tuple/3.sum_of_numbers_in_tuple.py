@@ -13,3 +13,4 @@ for tuples in tuples_list:
 
 # Printing the result
 print("Sum of the numbers:", total_sum)
+
