@@ -19,4 +19,5 @@ def sum_of_digits(input_string):
 # taking input from user
 user_input = input("Enter a string with digits: ")
 digit_sum = sum_of_digits(user_input)
-print("Sum of digits:", digit_sum)
+print("Sum of digits:", digit_sum)
+
