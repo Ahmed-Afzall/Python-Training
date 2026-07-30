@@ -8,4 +8,4 @@ num2 = input("Enter the second number: ")
 num1, num2 = num2, num1
 
 # Displaying the swapped values
-print(f"After swapping the numbers:\nFirst number: {num1}\nSecond number: {num2}")
+print(f"After swapping the numbers:\nFirst number: {num1}\nSecond number: {num2}")
