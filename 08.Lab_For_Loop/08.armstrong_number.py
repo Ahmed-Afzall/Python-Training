@@ -13,4 +13,3 @@ if num == sum:                         # Checking if the sum of cubes is equal t
     print(f"{num} is an Armstrong number.")
 else:
     print(f"{num} is not an Armstrong number.")
-
