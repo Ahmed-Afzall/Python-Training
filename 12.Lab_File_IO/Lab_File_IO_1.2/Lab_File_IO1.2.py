@@ -80,4 +80,3 @@ with open("example.txt", "r") as file:
 # File is automatically closed after the block
 
 
-
