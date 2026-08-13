@@ -9,4 +9,4 @@ if number > 0:  # if number is greator than 0, it is positve
 elif number < 0:  #  if number is less than 0, it is negative
     print("The number is negative.")
 else:            # else it is 0.
-    print("The number is zero.")
+    print("The number is zero.")
