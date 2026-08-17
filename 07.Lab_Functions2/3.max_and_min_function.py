@@ -11,4 +11,3 @@ minimum = min(numbers)
 print("Numbers:", numbers)
 print("Maximum:", maximum)
 print("Minimum:", minimum)
-
