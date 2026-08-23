@@ -36,4 +36,3 @@ circle = Circle(7)
 print_area(rectangle)  # Should print the area of the rectangle
 print_area(circle)     # Should print the area of the circle
 
-
