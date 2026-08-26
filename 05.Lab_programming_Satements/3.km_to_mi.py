@@ -10,4 +10,4 @@ conversion_rate = 0.621371
 miles = kilometers * conversion_rate
 
 # Displaying the conversion
-print(f"{kilometers} kilometers is equal to {miles} miles")
+print(f"{kilometers} kilometers is equal to {miles} miles")
