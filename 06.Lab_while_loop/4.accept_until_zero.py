@@ -12,4 +12,4 @@ while True:
         break
     total_sum += number
 
-print("Sum of all numbers:", total_sum)
+print("Sum of all numbers:", total_sum)
