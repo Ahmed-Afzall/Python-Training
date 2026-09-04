@@ -6,3 +6,4 @@ lower_case_name = name.lower()
 
 #printing the lower cased name
 print("Name in Lower Case:", lower_case_name)
+
