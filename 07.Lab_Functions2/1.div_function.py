@@ -9,3 +9,4 @@ result = div(10, 2)
 
 #printing the result
 print("Division Result:", result)
+
