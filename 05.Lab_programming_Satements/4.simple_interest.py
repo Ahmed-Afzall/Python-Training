@@ -9,4 +9,4 @@ time = 5  # as in years
 simple_interest = (principal * rate_of_interest * time) / 100
 
 # printing the result
-print(f"The Simple Interest on Rs. {principal} for {time} years at {rate_of_interest}% per year is Rs. {simple_interest}.")
+print(f"The Simple Interest on Rs. {principal} for {time} years at {rate_of_interest}% per year is Rs. {simple_interest}.")
