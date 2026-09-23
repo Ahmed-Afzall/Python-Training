@@ -7,3 +7,4 @@ for i in range(row):
     print(' ' * (row - i - 1), end='')
     # Printing stars
     print('*' * (2 * i + 1))
+
