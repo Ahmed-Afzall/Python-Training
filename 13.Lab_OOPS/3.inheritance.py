@@ -27,3 +27,4 @@ manager = Manager("Afzal", 1000, "IT")
 # Calling the display_details method
 manager.display_details()
 
+
