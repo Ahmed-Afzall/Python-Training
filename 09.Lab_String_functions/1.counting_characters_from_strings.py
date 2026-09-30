@@ -27,6 +27,7 @@ input_string = input("Enter a string: ")
 # Getting the counts of letters, digits, and special symbols
 letters, digits, special_symbols = count_characters(input_string)
 
+
 # Output of the results
 print(f"Letters: {letters}")
 print(f"Digits: {digits}")
