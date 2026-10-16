@@ -26,3 +26,4 @@ vowel_count = count_vowels(input_string)
 
 
 print(f"Total vowels are: {vowel_count}")
+
