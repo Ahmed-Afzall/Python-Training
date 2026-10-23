@@ -15,3 +15,4 @@ if original_number == reversed_number:
 else:
     print(f"{original_number} is not a palindrome.")
 
+
